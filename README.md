@@ -1,6 +1,9 @@
 # MassNitro
 Generates and checks Nitro codes - FAST
 
+This was made a while back. Uses a proxy api. Generates around 30-70 codes and checks them pr second​
+
+
 
 
 TERMS AND CONDITIONS
